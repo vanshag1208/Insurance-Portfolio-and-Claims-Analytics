@@ -143,24 +143,6 @@ Visual Analysis:
 
 
 
-# 📂 Project Resources
-
-### Dataset
-https://github.com/vanshag1208/Insurance-Portfolio-and-Claims-Analytics/tree/main/data
-
-### Python Scripts
-https://github.com/vanshag1208/Insurance-Portfolio-and-Claims-Analytics/tree/main/python%20scripts
-
-### SQL Queries
-https://github.com/vanshag1208/Insurance-Portfolio-and-Claims-Analytics/blob/main/sql/queries.sql
-
-### Power BI Dashboard
-https://github.com/vanshag1208/Insurance-Portfolio-and-Claims-Analytics/blob/main/power%20bi%20dashboard/analysis.pdf
-
-### Project Documentation
-https://github.com/vanshag1208/Insurance-Portfolio-and-Claims-Analytics/blob/main/reports%20and%20analysis/Insurance%20Claims%20Analysis%20Project%20Documentation.pdf
-
-
 
 # 👨‍💻 About the Author
 
