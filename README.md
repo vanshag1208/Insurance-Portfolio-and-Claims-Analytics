@@ -146,19 +146,19 @@ Visual Analysis:
 # 📂 Project Resources
 
 ### Dataset
-https://drive.google.com/drive/folders/1SBsoqXuzPLCq3IQkvX-0J4gkwZIOHNq-
+https://github.com/vanshag1208/Insurance-Portfolio-and-Claims-Analytics/tree/main/data
 
 ### Python Scripts
-https://drive.google.com/drive/folders/1cBbS86p9c1p0UTXy88NDtDESkaD3fKPv
+https://github.com/vanshag1208/Insurance-Portfolio-and-Claims-Analytics/tree/main/python%20scripts
 
 ### SQL Queries
-https://drive.google.com/file/d/17AQBLiukAlF0vXzkKOJ8ICGM0MwU6_qy/view
+https://github.com/vanshag1208/Insurance-Portfolio-and-Claims-Analytics/blob/main/sql/queries.sql
 
 ### Power BI Dashboard
-https://drive.google.com/file/d/1I9HQyZ-qyWJEjNhN8VR_ibgo5H_BnG8h/view
+https://github.com/vanshag1208/Insurance-Portfolio-and-Claims-Analytics/blob/main/power%20bi%20dashboard/analysis.pdf
 
 ### Project Documentation
-https://drive.google.com/file/d/1cxidKRg3q0MEnQoHmRQlXsNvyXIJ2Ktr/view
+https://github.com/vanshag1208/Insurance-Portfolio-and-Claims-Analytics/blob/main/reports%20and%20analysis/Insurance%20Claims%20Analysis%20Project%20Documentation.pdf
 
 
 
