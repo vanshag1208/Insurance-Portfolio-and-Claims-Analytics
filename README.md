@@ -4,7 +4,7 @@ Insurance Claims Analytics is an **end-to-end data analytics and business intell
 
 The project simulates a **real-world insurance analytics workflow** using Python, SQL Server, and Power BI to transform raw insurance data into actionable business insights.
 
----
+
 
 # 🧠 Project Overview
 
@@ -20,7 +20,7 @@ The workflow includes:
 
 The objective is to **evaluate portfolio profitability and identify claim risk patterns across policy tenures.**
 
----
+
 
 # 🎯 Objectives
 
@@ -31,7 +31,6 @@ The objective is to **evaluate portfolio profitability and identify claim risk p
 - Analyze claim trends over time  
 - Build an interactive insurance analytics dashboard  
 
----
 
 # 🛠️ Tech Stack
 
@@ -43,7 +42,7 @@ The objective is to **evaluate portfolio profitability and identify claim risk p
 - **DAX** – KPI calculations  
 - **Git & GitHub** – Version control  
 
----
+
 
 # 📊 Dataset Details
 
@@ -66,7 +65,7 @@ Features include:
 
 Each row represents a **policy purchased by a customer**.
 
----
+
 
 ## Claims Table
 
@@ -83,7 +82,7 @@ Features include:
 
 Each row represents a **claim filed against a policy**.
 
----
+
 
 # 🔄 Data Pipeline Architecture
 
@@ -95,7 +94,7 @@ Each row represents a **claim filed against a policy**.
 6. Build KPIs and metrics using **DAX**
 7. Develop interactive dashboards for insurance analytics
 
----
+
 
 # 📊 Core Features
 
@@ -122,7 +121,7 @@ Each row represents a **claim filed against a policy**.
 
 ✔️ Policy sales remain relatively **stable across months**, indicating steady portfolio growth.
 
----
+
 
 # 📷 Dashboard
 
@@ -142,7 +141,7 @@ Visual Analysis:
 - Claim Rate by Policy Tenure  
 - Policies Sold by Month  
 
----
+
 
 # 📂 Project Resources
 
@@ -161,7 +160,7 @@ https://drive.google.com/file/d/1I9HQyZ-qyWJEjNhN8VR_ibgo5H_BnG8h/view
 ### Project Documentation
 https://drive.google.com/file/d/1cxidKRg3q0MEnQoHmRQlXsNvyXIJ2Ktr/view
 
----
+
 
 # 👨‍💻 About the Author
 
