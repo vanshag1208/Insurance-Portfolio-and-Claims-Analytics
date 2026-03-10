@@ -150,5 +150,3 @@ Visual Analysis:
 Aspiring Data Analyst  
 B.Tech – Artificial Intelligence & Data Science  
 
-Skills:  
-Python | SQL | Power BI | Data Analytics | Business Intelligence
